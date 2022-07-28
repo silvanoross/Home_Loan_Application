@@ -9,7 +9,9 @@ This project will help those who want to find a bank that will give them a desir
 Language: Python 3.9.12 
 
 Libraries used not included in python:
+
 [Fire](https://github.com/google/python-fire) - For seamlessly running the application from the CLI
+
 [Questionary](https://github.com/tmbo/questionary) - For interactive user prompts and easy entry
 
 ---
