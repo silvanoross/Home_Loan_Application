@@ -42,7 +42,8 @@ that file path.
 Next: Enter in your credit score followed by the monthly values for debt and income. 
 Finally: Enter the requested loan amount and the value of the house you are to use the loan for.
 
-Here is what it should look like:
+### Here is what it should look like:
+
 ![app_demo](images/app_example_1.png)
 
 The application will perform the necessary calculations and return the users 
@@ -59,12 +60,12 @@ Additionally a CSV file containing a list of banks allowing this loan request wi
 
 Created by Silvano Ross while in the UW FinTech Bootcamp
 > Contact Info:
-> email: silvanoross3@gmail.com
-> [GitHub](https://github.com/silvanoross)
+> email: silvanoross3@gmail.com |
+> [GitHub](https://github.com/silvanoross) |
 > [LinkedIn](https://www.linkedin.com/in/silvano-ross-b6a15a93/)
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+[MIT](LICENSE)
