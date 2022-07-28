@@ -10,7 +10,7 @@ Language: Python 3.9.12
 
 Libraries used not included in python:
 
-[Fire](https://github.com/google/python-fire) - For seamlessly running the application from the CLI
+git[Fire](https://github.com/google/python-fire) - For seamlessly running the application from the CLI
 
 [Questionary](https://github.com/tmbo/questionary) - For interactive user prompts and easy entry
 
@@ -24,7 +24,6 @@ Before running this application be sure to install the necessary dependencies:
     pip install fire
     pip install questionary
 ```
-![Library Installation](images/installation_guide.png)
 
 ---
 
